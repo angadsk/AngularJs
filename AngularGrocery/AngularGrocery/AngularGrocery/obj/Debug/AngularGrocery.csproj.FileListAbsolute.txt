@@ -1,0 +1,6 @@
+F:\TestDev\AngularGrocery\AngularGrocery\AngularGrocery\bin\AngularGrocery.dll.config
+F:\TestDev\AngularGrocery\AngularGrocery\AngularGrocery\bin\AngularGrocery.dll
+F:\TestDev\AngularGrocery\AngularGrocery\AngularGrocery\bin\AngularGrocery.pdb
+F:\TestDev\AngularGrocery\AngularGrocery\AngularGrocery\obj\Debug\AngularGrocery.csprojResolveAssemblyReference.cache
+F:\TestDev\AngularGrocery\AngularGrocery\AngularGrocery\obj\Debug\AngularGrocery.dll
+F:\TestDev\AngularGrocery\AngularGrocery\AngularGrocery\obj\Debug\AngularGrocery.pdb
